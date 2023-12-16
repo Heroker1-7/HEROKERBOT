@@ -25,18 +25,18 @@
 
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github/HEROKER1-7/HEROKERbot1.0)](https://repl.it/github/HEROKER1-7/HEROKERbot1.0)
+[![Run on Repl.it](https://repl.it/badge/github/HEROKER1-7/HEROKERbot)](https://repl.it/github/HEROKER1-7/HEROKERbot)
 
 ### `—◉ 💥 ACTIVAR EN KOYEB 💥`
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/HEROKER1-7/HEROKERbot1.0&branch=master&name=Hatsunemikubot)
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HEROKER1-7/HEROKERbot1.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HEROKER1-7/HEROKERbot)
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/HEROKER1-7/HEROKERbot1.0/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/HEROKER1-7/HEROKERbot1.0/blob/main/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/HEROKER1-7/HEROKERbot/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/HEROKER1-7/HEROKERbot/blob/main/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾
 PRIMERA OPCIÓN `
@@ -50,7 +50,7 @@ pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget &&
 ```
 
 ```bash
-wget -O - https://raw.githubusercontent.com/HEROKER1-7/HEROKERbot1.0/master/install.sh | bash
+wget -O - https://raw.githubusercontent.com/HEROKER1-7/HEROKERbot/master/install.sh | bash
 ```
 
 
@@ -70,7 +70,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/HEROKER1-7/HEROKERbot1.0.git && cd HEROKERbot1.0
+git clone https://github.com/HEROKER1-7/HEROKERbot.git && cd HEROKERbot
 ```
 
 ```bash
@@ -94,7 +94,7 @@ npm start
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd HADES-BOT-OMEGA
+> cd HEROKERbot
 ```
 
 ```bash
@@ -107,7 +107,7 @@ npm start
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd HADES-BOT-OMEGA
+> cd HEROKERbot
 ```
 
 ```bash
@@ -118,13 +118,7 @@ npm start
 > npm start
 ```
 
-### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://i.imgur.com/K46KVqw.jpeg" width="450" height="240" alt="JPG"/></a>
-- Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
-- Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
-- Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
-- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/Gn-ESCcdFGw)
-- Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
+
 
 ### `—◉ 📝 NOTAS 📝`
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
@@ -136,6 +130,6 @@ npm start
 
 
 ## `CREADO POR HEROKER` 
-<a href="https://github.com/OFC-YOVANI"><img src="https://i.imgur.com/uKSNdLg.jpg" width="250" height="250" alt="YOVANI"/></a>
+<a href="https://github.com/Heroker1-7"><img src="https://imgur.com/a/1JYbFMp" width="250" height="250" alt="HEROKER"/></a>
   
 `HEROKER bot-MD - By HEROKER`
